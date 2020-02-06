@@ -1,0 +1,12 @@
+span {
+    color: blue;
+}
+
+span:hover {
+    text-decoration: underline darkblue; 
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
